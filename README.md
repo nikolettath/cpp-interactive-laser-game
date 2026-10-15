@@ -13,4 +13,5 @@ A local multiplayer 2D game developed as a two-person university project to prac
 * **Game State Management**: Smooth transitions between the main menu, active gameplay, and the game-over screen.
 
 ### Gameplay
+![Gameplay](assets/gameplay-gif.gif)
 ![Gameplay](assets/gameplay-vid.mp4)
