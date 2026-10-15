@@ -14,4 +14,5 @@ A local multiplayer 2D game developed as a two-person university project to prac
 
 ### Gameplay
 ![Gameplay](assets/gameplay-gif.gif)
-![Gameplay](assets/gameplay-vid.mp4)
+
+![Full video here](assets/gameplay-vid.mp4)
